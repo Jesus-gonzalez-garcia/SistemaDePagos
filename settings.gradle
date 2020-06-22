@@ -1,0 +1,2 @@
+rootProject.name='SIstema de pagos'
+include ':app'
